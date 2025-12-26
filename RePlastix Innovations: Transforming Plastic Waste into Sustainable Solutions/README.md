@@ -71,14 +71,6 @@ sfdx force:source:deploy -p force-app
 sfdx force:apex:test:run --resultformat human --outputdir test-results
 ```
 
----
 
-## 👤 Author
 
-**Hanvith Reddy B**
-Salesforce Developer @ RePlastix Innovations
-[LinkedIn](https://www.linkedin.com/in/hanvith-reddy-a67857252/) | [GitHub](https://github.com/hanvith6)
 
----
-
-Let me know if you want me to auto-generate the README.md file in Markdown or include a badge (e.g., test coverage, build passing, etc.).
