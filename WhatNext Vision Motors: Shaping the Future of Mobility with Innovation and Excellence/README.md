@@ -137,28 +137,6 @@ Track bookings and service requests with ease.
 - Building modular Lightning apps for streamlined user experience
 - Implementing batch and asynchronous Apex operations
 
----
 
-## 👨‍💻 Author
 
-**[Sidhant Kaistha]**
 
--Graphic Era Deemed To Be University
-
--B.Tech in Computer Science with Specialization in Artificial Intelligence 
-
--Email: [sidhantkaistha2004@gmail.com] 
-
----
-
-## 🔗 Project Links
-
-- 💻 GitHub Repository: [https://github.com/sidhantkaistha2004/Salesforce---WhatNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence]
-- 🎥 Demo Video: Uploaded the link at the skillwallet Salesforce.
-
----
-
-## 📄 License
-
-This project is developed for educational and portfolio purposes.  
-Feel free to fork, adapt, or reference it for learning.
